@@ -4,6 +4,7 @@
 
 You probably want [`imagemin-optipng`](https://github.com/imagemin/imagemin-optipng) instead.
 
+> use https://npm.taobao.org/mirrors/optipng-bin/ as downlaod source
 
 ## Install
 
