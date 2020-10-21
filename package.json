@@ -1,6 +1,6 @@
 {
 	"name": "@porky-prince/optipng-bin",
-	"version": "7.0.1",
+	"version": "7.0.2",
 	"description": "OptiPNG wrapper that makes it seamlessly available as a local dependency",
 	"license": "MIT",
 	"repository": "imagemin/optipng-bin",
